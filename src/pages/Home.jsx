@@ -14,7 +14,7 @@ const Home = () => {
       {/* 首页 banner */}
       <section style={{ height: 460, background: 'linear-gradient(to right, #165DFF, #0E3BA1)', color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
         <div>
-          <h1 style={{ fontSize: 42, marginBottom: 16 }}>BD&AI 科技协会</h1>
+          <h1 style={{ fontSize: 42, marginBottom: 16 }}>BD&AI 创新活动室</h1>
           <p style={{ fontSize: 18, marginBottom: 32 }}>软硬件双组 | Buddy帮扶 | 志愿公益 | 专业赛事</p>
           <Button type="primary" size="large" style={{ background: '#fff', color: '#165DFF' }}>加入我们</Button>
         </div>
@@ -43,7 +43,7 @@ const Home = () => {
           <Row gutter={[24,24]} align="middle">
             <Col xs={24} md={12}>
               <h3 style={{ fontSize: 22, marginBottom: 16 }}>用技术传递温暖</h3>
-              <p style={{ lineHeight: 1.8, color: '#666' }}>我们开展电脑义诊、科技支教、校园服务等志愿活动，记录志愿时长、颁发荣誉证书，展现协会责任与担当。</p>
+              <p style={{ lineHeight: 1.8, color: '#666' }}>我们开展AI助老、科技支教、校园服务等志愿活动，记录志愿时长、颁发荣誉证书，展现协会责任与担当。</p>
               <Button type="primary" style={{ marginTop: 20 }}>进入志愿专区</Button>
             </Col>
             <Col xs={24} md={12}>
